@@ -6,7 +6,7 @@
 
 ## Here is a bunch of information about us‼️
 
-<img src="https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png" width="400">
+<img src="https://linhacanabica.com/hubfs/CartaoMedicinal.png" width="400">
 
 
  ### Who we are: ✅
