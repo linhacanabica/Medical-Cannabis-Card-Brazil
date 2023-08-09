@@ -1,6 +1,6 @@
 # Medical-Cannabis-Card-Brazil
 
-<h1 align="center"><img src="https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png" width="120"> Welcome to Medical Cannabis Card Brazil. <img src="https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png" width="120"> </h1>
+<h1 align="center"><img src="https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png" width="80"> Welcome to Medical Cannabis Card Brazil. <img src="https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png" width="80"> </h1>
 
 <br/>
 
