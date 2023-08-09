@@ -1,6 +1,6 @@
 # Medical-Cannabis-Card-Brazil
 
-<h1 align="center"><img src="[https://github.com/forsign-digital/a-member/blob/main/ForSign-Logotipo_Aurora%20Icone%20Colorido.svg](https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png)" width="50"> Welcome to Medical Cannabis Card Brazil. <img src="[https://github.com/forsign-digital/a-member/blob/main/ForSign-Logotipo_Aurora%20Icone%20Colorido.svg](https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png)" width="50"> </h1>
+<h1 align="center"><img src="https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png" width="50"> Welcome to Medical Cannabis Card Brazil. <img src="https://linhacanabica.com/hubfs/Participe-da-Pesquisa-sobre-Cannabis.png" width="50"> </h1>
 
 <br/>
 
